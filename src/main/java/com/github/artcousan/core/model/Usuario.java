@@ -1,7 +1,7 @@
-package br.com.ctw.core.model;
+package com.github.artcousan.core.model;
 
-import br.com.ctw.core.enums.GeneroEnum;
-import br.com.ctw.core.enums.StatusEnum;
+import com.github.artcousan.core.enums.GeneroEnum;
+import com.github.artcousan.core.enums.StatusEnum;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

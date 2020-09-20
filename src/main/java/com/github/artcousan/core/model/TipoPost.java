@@ -1,4 +1,4 @@
-package br.com.ctw.core.model;
+package com.github.artcousan.core.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

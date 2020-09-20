@@ -1,4 +1,4 @@
-package br.com.ctw.core;
+package com.github.artcousan.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

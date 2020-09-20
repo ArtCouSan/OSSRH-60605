@@ -1,4 +1,4 @@
-package br.com.ctw.core.enums;
+package com.github.artcousan.core.enums;
 
 public enum StatusEnum {
 
